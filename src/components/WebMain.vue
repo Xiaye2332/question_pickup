@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import {ref} from "vue";
-import {Delete, Edit, Search, Share, Upload} from '@element-plus/icons-vue'
+import {Search} from '@element-plus/icons-vue'
 
 defineProps<{ msg: string }>();
 
